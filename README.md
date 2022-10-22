@@ -6,8 +6,8 @@
 
 ### 我的状态
 
-代码一直算是一个我的业余爱好，从开发转为产品的工作经验让我知道一个好的产品或者项目经理对于一个团队和项目研发的重要性，自己也是离职于成为一个全栈工程师和架构师而努力。
-饭一口口吃的名字也是一样，希望自己不要狼吞虎咽一步一步吃饭，吸收好后茁壮成长。
+代码算是我一个吃饭的技巧，不论我从事什么工作都都持续学习它，现在的我主要是以JavaScript技术栈为核心学习其周边生态，例如Vue/React等，当然也和自己的一些小伙伴接一下小项目和系统，从爱好到工作其实我发现了好的产品构思和项目构思对编码也有着非常重要的地位，这驱使着我也不断学习产品知识并把这些知识用在工作中，完成多个金额在500w+的项目。
+保持热爱，持续学习
 
 <a href="https://github.com/fanyikoukouchi#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=fanyikoukouchi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />

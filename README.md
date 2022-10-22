@@ -6,8 +6,9 @@
 
 ### 我的状态
 
-代码算是我一个吃饭的技巧，不论我从事什么工作都持续学习它，现在的我主要是以JavaScript技术栈为核心学习其周边生态，例如Vue/React等，当然也和自己的一些小伙伴接一下小项目和系统，从爱好到工作其实我发现了好的产品构思和项目构思对编码也有着非常重要的地位，这驱使着我也不断学习产品知识并把这些知识用在工作中，完成多个金额在500w+的项目。
-保持热爱，持续学习
+代码算是我一个吃饭的技巧，不论我从事什么工作都持续学习它，现在的我主要是以JavaScript技术栈为核心学习其周边生态，例如Vue/React等，当然也和自己的一些小伙伴接一下小项目和系统，从爱好到工作，我发现：好的产品、项目构思对编码有着非常重要的地位，这驱使着我不断学习产品知识并把这些用在工作中，帮助我完成多个金额在500w+的项目。和小伙伴们一期讨论学习新的技术，就像小时候玩练级类游戏时那热情的感觉。<br/>
+
+希望自己：<b>持续学习，努力向上</b>
 
 <a href="https://github.com/fanyikoukouchi#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=fanyikoukouchi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />

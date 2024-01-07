@@ -4,11 +4,11 @@
 - 🌱 I’m currently learned many skills such as C#/Python/Java/JavaScript
 - 📫 How to reach me: softerzhangyu@gmail.com is my email
 
-### 我的状态
+### My state
 
-代码算是我一个吃饭的技巧，不论我从事什么工作都持续学习它，现在的我主要是以JavaScript技术栈为核心学习其周边生态，例如Vue/React等，当然也和自己的一些小伙伴接一下小项目和系统，从爱好到工作，我发现：好的产品、项目构思对编码有着非常重要的地位，这驱使着我不断学习产品知识并把这些用在工作中，帮助我完成多个金额在500w+的项目。和小伙伴们一期讨论学习新的技术，就像小时候玩练级类游戏时那热情的感觉。<br/>
+Coding has become a skill essential for my livelihood, a constant in whatever job I pursue. Currently, my focus is on mastering the JavaScript technology stack and its surrounding ecosystem, including frameworks like Vue and React. Alongside some friends, I also take on small projects and systems, turning my hobby into my profession. I've realized that a well-conceived product or project idea plays a crucial role in coding. This realization drives me to continually learn about product development and apply this knowledge in my work, aiding me in completing multiple projects valued at over 5 million. Discussing and learning new technologies with friends brings back the same excitement I felt as a child when playing leveling-up games.<br/>
 
-希望自己：<b>持续学习，努力向上</b>
+<b>Keep learning and work hard</b>
 
 <a href="https://github.com/fanyikoukouchi#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=fanyikoukouchi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
@@ -26,5 +26,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 
-### 我的博客
-CSDN: <a href="https://blog.csdn.net/weixin_36662706">写文章的地方</a>
+### My Blog
+CSDN: <a href="https://blog.csdn.net/weixin_36662706">Places to Write Articles</a>

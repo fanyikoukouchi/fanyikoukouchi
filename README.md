@@ -27,3 +27,5 @@ Coding has become a skill essential for my livelihood, a constant in whatever jo
 
 ### My Blog
 CSDN: <a href="https://blog.csdn.net/weixin_36662706">Places to Write Articles</a>
+
+[![fanyikoukouchi's GitHub | Languages Over Time](https://stats.quine.sh/fanyikoukouchi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fanyikoukouchi)
